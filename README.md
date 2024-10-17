@@ -1,1 +1,8 @@
-Hello, this is a test for creating the readme on my profile.
+Hello, welcome to my profile. 👋👋
+---
+> Do something everyday
+
+— Laurence
+
+
+<!-- Add more here later -->
